@@ -1,0 +1,12 @@
+{
+  "mode": "Three-wallet role verification",
+  "chainId": 60600,
+  "buyer": "0xb94007170a6c8ec8282b8e91f99cd83d99a05309",
+  "seller": "0x8c37ab3053e5acb11181e9f4058b5cd2efe61d50",
+  "arbiter": "0xb5a286ca94fccffe9696457d97c29df5c05d0919",
+  "token": "0x399676ea415071b4064f0CefAaE22b2147f9B326",
+  "escrow": "0x4Cd603d73BD3EfD4590ea41AcD356797C0F6b70B",
+  "deployedOnBlock": 2671708,
+  "deploymentHash": "0xe1551291ec2af751ee35210dd5f0dfb195c5896c3ea75751fefd1ec8592d5230",
+  "configuredAt": "2026-10-19T06:20:32.639Z"
+}
